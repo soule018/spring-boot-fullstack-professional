@@ -28,3 +28,7 @@ Have you got what it takes to become a professional software engineer? Cool I'll
 
 <img width="773" alt="Screenshot 2021-03-12 at 20 48 48" src="https://user-images.githubusercontent.com/40702606/111074947-627e1100-84dd-11eb-9d3f-85fdbf23e290.png">
 
+lien de la vidéo : https://www.youtube.com/watch?v=Geq60OVyBPg
+lien utiles : https://junit.org/junit5/docs/current/user-guide/
+              https://assertj.github.io/doc/
+
