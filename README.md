@@ -4,10 +4,11 @@ https://amigoscode.com/p/full-stack-spring-boot-react
 
 ![Cover](https://user-images.githubusercontent.com/40702606/111074799-bdfbcf00-84dc-11eb-98c0-d40a99aa0da7.png)
 
+# Course Description
 lien de la vidéo : https://www.youtube.com/watch?v=Geq60OVyBPg
 lien utiles : https://junit.org/junit5/docs/current/user-guide/
               https://assertj.github.io/doc/
-# Course Description
+
 Spring Boot allows to take an idea/prototype and turn it into a real thing in matters minutes hours of months and years. A lot of companies use Spring Boot because it's easy to setup, learn and write code very fast without having to setup the low level platform code. Recently, Netflix has decided to switch their entire backend to Spring Boot. This shows that Spring Boot is a must if you are or want to become a software engineer in the Java world.
 This course teaches how to build a full stack application from the ground up and touches on very import concepts used in real live software development. Concepts such as:
 
